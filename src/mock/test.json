@@ -1,0 +1,7 @@
+{
+  "code":200,
+  "data":[
+    {"name":"王梦迪","gender":"male"},
+    {"name":"张阅","gender":"male"}
+  ]
+}
